@@ -1,0 +1,14 @@
+{
+    "name": "@monorepo/common",
+    "version": "1.0.0",
+    "description": "Shared utilities and common code for microservices",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "winston": "^3.11.0",
+        "jsonwebtoken": "^9.0.2"
+    }
+}
