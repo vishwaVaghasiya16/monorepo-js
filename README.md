@@ -345,3 +345,6 @@ MIT
 ## 🤝 Contributing
 
 This is a demo project. Feel free to use it as a starting point for your own microservices architecture.
+
+## OOPs concepts
+## https://docs.google.com/document/d/16BRV7pcyMylskIYHv89CrEk4PCgqbEaAHtiXEj2wXx0/edit?tab=t.0
