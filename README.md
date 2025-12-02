@@ -352,3 +352,4 @@ This is a demo project. Feel free to use it as a starting point for your own mic
 ## safe Note
 ## https://docs.google.com/document/d/17OWmKkVIwnL05zaTFCIMBJky8c35f8c34Ow4QPil8EU/edit?tab=t.0
 
+## https://dbdiagram.io/d/692edc8cd6676488ba3fbd7c
