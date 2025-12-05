@@ -370,3 +370,160 @@ challenging responsibilities, and work in an environment with stronger client ex
 That’s why I am here today.  
 Thank you for giving me this opportunity and for reaching out to me on LinkedIn.
 
+
+
+
+Great! હવે હું તારાં **exact role, tech stack, project, experience** પ્રમાણે **interview-ready full script** તૈયાર કરી દઉં છું— જેથી તું કોઈપણ client-based company માં confidently બોલી શકે.
+
+---
+
+# ⭐ **1. Perfect Self-Introduction (Tailored for Senior Node.js Developer)**
+
+### **Version – Strong & Professional**
+
+```
+Hi, my name is ________. I’m currently working as a Senior Node.js Developer at LogicGo, 
+and I will be completing almost 2 years in February 2026.
+
+My core skill set includes Node.js, Express.js, TypeScript, JavaScript, MongoDB, and 
+backend deployment on DigitalOcean cloud. I have been responsible for building scalable APIs, 
+database design, creating reusable backend modules, and optimizing server performance.
+
+Currently, I am working on a live client project called Viteezy. It is an e-commerce platform 
+for pharmacy products based in the Netherlands with 90,000+ active users. I am involved in 
+Viteezy V2 development which includes restructuring the backend architecture, improving 
+performance, and integrating new features.
+
+Now, I am looking for a client-based company where I can work closely with international clients, 
+take more ownership, and contribute to backend system design at a deeper level.
+Thank you.
+```
+
+---
+
+# ⭐ **2. Reason for Leaving (Perfect Answer for Client-Based Companies)**
+
+### **Version 1 – Career Growth (Safest & Strongest)**
+
+```
+I have completed almost 2 years at LogicGo and I have learned a lot there. 
+But now the growth and exposure I’m looking for—especially direct client communication 
+and working on large-scale international projects—is limited. 
+
+I want to move into a company where backend architecture, scalability, and problem-solving 
+are more challenging and client interaction is stronger.
+```
+
+### **Version 2 – “Looking for Better Opportunities in Backend Architecture”**
+
+```
+In my current company, I had good learning, but the project scope is now becoming repetitive.
+I want to work on more scalable systems, microservices, performance optimization, 
+and architecture-level decision making, which I can get in a client-based company.
+```
+
+### **Version 3 – Neutral (No negativity)**
+
+```
+There is no issue with my current company. 
+I am just looking to upgrade my backend skills by working on more complex, 
+client-driven projects.
+```
+
+---
+
+# ⭐ **3. Project Explanation (Viteezy – E-commerce Pharmacy App)**
+
+Interviewમાં પૂછે: *“Tell me about your current project?”* → આ જવાબ perfect છે.
+
+```
+I am currently working on a Netherlands-based e-commerce application called Viteezy. 
+It is a pharmacy product marketplace with more than 90,000 active users.
+
+In Viteezy V1, I mainly worked on backend API development, authentication, product 
+management modules, and backend deployment on DigitalOcean.
+
+Currently, I’m working on Viteezy V2 where we are improving backend architecture, 
+optimizing slow APIs, restructuring database queries, and adding new modules to 
+make the platform more scalable.
+
+Tech stack we use:
+– Node.js  
+– Express.js  
+– TypeScript  
+– MongoDB  
+– Server deployment on DigitalOcean  
+– REST APIs  
+– Middleware and modular architecture  
+
+My role includes:
+– Creating scalable backend APIs  
+– Optimizing DB queries and reducing latency  
+– Writing reusable modules  
+– Implementing authentication & authorization  
+– Integrating external services  
+– Server monitoring & deployment  
+– Working directly with the client team  
+```
+
+---
+
+# ⭐ **4. If interviewer asks: “What is your contribution in Viteezy V2?”**
+
+```
+I contributed in rewriting legacy code into well-structured TypeScript modules, 
+created new endpoints, optimized slow APIs, implemented better error handling and 
+logging, and improved API performance. I also handled backend deployment, 
+environment setup, and production-level debugging on DigitalOcean.
+```
+
+---
+
+# ⭐ **5. Strengths (Backend Developer)**
+
+```
+– Strong logical thinking and problem solving  
+– Clean coding and modular architecture  
+– Ability to understand client requirements quickly  
+– Experience with scalable APIs and DB optimization  
+– Ownership mentality and fast learning  
+```
+
+---
+
+# ⭐ **6. Weakness (Safe & Professional)**
+
+```
+Sometimes I take too much responsibility because I want everything to be perfect,
+but I’m learning to balance quality with timelines.
+```
+
+---
+
+# ⭐ **7. Why should we hire you? (Tailored to Client Companies)**
+
+```
+I have solid experience in Node.js and backend development along with working 
+directly on international client projects. I can take end-to-end ownership—from 
+understanding requirements to deployment.
+
+I strongly focus on writing clean, scalable backend code and solving performance issues,
+which is important for client-based companies. I learn things fast and I can contribute 
+from day one.
+```
+
+---
+
+# ⭐ Want to go further?
+
+I can prepare:
+✔ **Full mock interview (Live Q&A)**
+✔ **More questions for Node.js/Express/MongoDB**
+✔ **Behavioral round preparation**
+✔ **HR round answers**
+✔ **Resume content for your exact experience**
+✔ **Company-specific preparation (client-based firms)**
+
+---
+
+👉 **Do you want a full mock interview right now?**
