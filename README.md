@@ -353,3 +353,20 @@ This is a demo project. Feel free to use it as a starting point for your own mic
 ## https://docs.google.com/document/d/17OWmKkVIwnL05zaTFCIMBJky8c35f8c34Ow4QPil8EU/edit?tab=t.0
 
 ## https://dbdiagram.io/d/692edc8cd6676488ba3fbd7c
+
+Hello Ma’am, Good morning. My name is Vishwa Vaghasiya. 
+I’m currently working as a Senior Backend Developer at LogicGo and I have almost 
+2 years of hands-on experience in backend development.
+
+During this time, I have worked on both client-based and product-based projects, 
+and I enjoy solving complex backend problems.
+
+My core skills include Node.js, Express.js, MongoDB, TypeScript, JavaScript and 
+cloud-based deployment on DigitalOcean.
+
+I am now exploring new opportunities where I can grow further, take on more 
+challenging responsibilities, and work in an environment with stronger client exposure. 
+
+That’s why I am here today.  
+Thank you for giving me this opportunity and for reaching out to me on LinkedIn.
+
